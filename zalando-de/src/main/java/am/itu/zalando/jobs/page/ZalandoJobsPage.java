@@ -20,6 +20,6 @@ public class ZalandoJobsPage extends ZalandoKidsHomePage {
 	public ZalandoSearchForJobsPage checkOutForJobs() {
 		checkOut.click();
 		return new ZalandoSearchForJobsPage(driver);
-	}
+	}remote
 
 }
